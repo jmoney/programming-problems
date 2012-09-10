@@ -13,7 +13,7 @@ import static org.junit.Assert.assertThat;
 public class Euler1Test {
 
     /**
-     * Basic test. What is the sum under 10: example given on http://projecteuler.net/problem=1
+     * Basic test. What is the sum under 10?
      */
     @Test
     public void basicTest() {
@@ -21,7 +21,7 @@ public class Euler1Test {
     }
 
     /**
-     * Pass test. Part of problem description
+     * Pass test. Part of problem description: http://projecteuler.net/problem=1
      */
     @Test
     public void passTest() {
